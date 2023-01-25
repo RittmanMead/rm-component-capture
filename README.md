@@ -12,5 +12,5 @@ Plug-in is free for everyone to use, no metter it is commercial or private use.
 ## About Authors
 Author | LinkedIn | Twitter | E-mail
 -------|-------|---------|-------
-Lucas Hirschegger | (https://www.linkedin.com/in/lucashirschegger/) | [@Lucas_Hir](https://twitter.com/Lucas_Hir) | lucas.hirschegger@rittmanmead.com
-Petar Simic | (https://www.linkedin.com/in/petar-simic-61747a151/) | [@petarsimic7](https://twitter.com/PetarSimic7) | petar.simic@rittmanmead.com
+Lucas Hirschegger | https://www.linkedin.com/in/lucashirschegger/ | [@Lucas_Hir](https://twitter.com/Lucas_Hir) | lucas.hirschegger@rittmanmead.com
+Petar Simic | https://www.linkedin.com/in/petar-simic-61747a151/ | [@petarsimic7](https://twitter.com/PetarSimic7) | petar.simic@rittmanmead.com
