@@ -7,9 +7,9 @@ Plug-in is free for everyone to use, no metter it is commercial or private use.
 ## Features
 * take a screenshot of component incluing canvas elements(eg. Oracle APEX Map)
 * screenshot can be saved locally or to DB
-* the target component can be change dynamicly
+* the target component can be changed dynamicly
 
-## About Author
+## About Authors
 Author | LinkedIn | Twitter | E-mail
 -------|-------|---------|-------
 Lucas Hirschegger | (https://www.linkedin.com/in/lucashirschegger/) | [@Lucas_Hir](https://twitter.com/Lucas_Hir) | lucas.hirschegger@rittmanmead.com
