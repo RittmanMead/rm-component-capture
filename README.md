@@ -9,7 +9,7 @@ Plug-in is free for everyone to use, no metter it is commercial or private use.
 * screenshot can be saved locally or to DB
 * the target component can be changed dynamicly
 
-## About RittmanMead
+### About Rittman Mead
 Rittman Mead is a data and analytics company who specialise in data visualisation, predictive analytics, enterprise reporting and data engineering.
 More on - https://rittmanmead.com/about-us/
 
