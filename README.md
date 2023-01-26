@@ -1,5 +1,5 @@
 # rm-component-capture
-This APEX Dynamic Action plugin allows use capture any part of your application using a simple jQuery selector. The output of the action is either a PNG image to be downloaded, a BLOB file in a collection or a image in the clipboard.  
+This APEX Dynamic Action plugin allows use capture any part of your application using a simple jQuery selector. The output of the action is either a PNG image to be downloaded or a BLOB file in a collection.  
 
 ## Free plug-in under MIT license
 Plug-in is free for everyone to use, no metter it is commercial or private use.
