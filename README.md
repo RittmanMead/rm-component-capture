@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/APEX-20.*-brightgreen) ![](https://img.shields.io/badge/APEX-21.*-brightgreen) ![](https://img.shields.io/badge/APEX-22.*-brightgreen)
 # rm-component-capture
 The Oracle APEX plugin allows users to easily capture a screenshot of any portion of their page and save it to an APEX Collection or download it as a PNG file. The Dynamic Action plugin integrates seamlessly into the Oracle APEX platform and provides a user-friendly interface for selecting the area of the page to be captured using CSS Selectors. This plugin is a useful tool for users who need to capture and share visual information from their Oracle APEX applications, such a maps or chart. 
 
