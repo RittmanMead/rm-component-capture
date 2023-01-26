@@ -9,6 +9,9 @@ Plug-in is free for everyone to use, no metter it is commercial or private use.
 * screenshot can be saved locally or to DB
 * the target component can be changed dynamicly
 
+### Support 
+Thank you for choosing our plug-in! We are happy to provide support for the plugin free of charge. This includes assistance with troubleshooting, bug fixes, and general usage questions. If you are interested in customization, implementation, or creating a new plug-in, please don't hesitate to contact us for a quote. Our team of experts will be happy to work with you to create a solution that meets your specific needs. You can contact us on - info@rittmanmead.com.
+
 ### About Rittman Mead
 Rittman Mead is a data and analytics company who specialise in data visualisation, predictive analytics, enterprise reporting and data engineering.
 More on - https://rittmanmead.com/about-us/
