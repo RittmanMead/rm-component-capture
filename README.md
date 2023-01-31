@@ -14,7 +14,7 @@ The Oracle APEX plugin allows users to easily capture a screenshot of any portio
 * Support other image formats
 
 ## Version
-Date | version | description |
+Date | Version | Description |
 -------|-------|---------|
 26.01.2023 |1.0| First release |
 
