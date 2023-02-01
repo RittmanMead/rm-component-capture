@@ -18,7 +18,6 @@ var RM = {
     componentCapture: function () {
         // plugin attributes
         var daThis = this;
-        //var regionId = daThis.action.attribute01;
         
         // MAP canvas fix
         HTMLCanvasElement.prototype.getContext = function (origFn) {
@@ -30,6 +29,7 @@ var RM = {
         }(HTMLCanvasElement.prototype.getContext);
 
         var html2canvasConfiguration = {
+            allowTaint: false,
             useCORS: true,
             backgroundColor: null,
             logging: true,
@@ -106,7 +106,7 @@ var RM = {
                         // add apex event
                         apex.event.trigger(elementToCapture, 'screencapture-error-db');
                         // logging
-                        console.log('getImage: apex.server.plugin ERROR:', pMessage);
+                        console.error();
                     }
                 });
             });
