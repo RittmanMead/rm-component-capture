@@ -16,7 +16,7 @@ The Oracle APEX plugin allows users to easily capture a screenshot of any portio
 ## Version
 Date | Version | Description |
 -------|-------|---------|
-26.01.2023 |1.0| First release |
+26.01.2023 |1.0.0| First release |
 
 ### Known Issues
 * Multi element capturing is not working in Firefox
