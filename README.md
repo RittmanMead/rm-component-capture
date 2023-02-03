@@ -18,6 +18,9 @@ Date | Version | Description |
 -------|-------|---------|
 26.01.2023 |1.0| First release |
 
+### Known Issues
+* Multi element capturing is not working in Firefox
+
 ### Support 
 Thank you for choosing our plug-in! We are happy to provide support for the plugin free of charge. This includes assistance with troubleshooting, bug fixes, and general usage questions. If you are interested in customization, implementation, or creating a new plug-in, please don't hesitate to contact us for a quote. Our team of experts will be happy to work with you to create a solution that meets your specific needs. You can contact us on - info@rittmanmead.com.
 
@@ -36,6 +39,9 @@ Author | LinkedIn | Twitter | E-mail
 -------|-------|---------|-------
 Petar Simic | https://www.linkedin.com/in/petar-simic-61747a151/ | [@petarsimic7](https://twitter.com/PetarSimic7) | petar.simic@rittmanmead.com
 Lucas Hirschegger | https://www.linkedin.com/in/lucashirschegger/ | [@Lucas_Hir](https://twitter.com/Lucas_Hir) | lucas.hirschegger@rittmanmead.com
+
+### Demo
+Demo application - https://apex.oracle.com/pls/apex/f?p=153282:1
 
 ### Licence 
 This is licensed under the MIT license. See license.txt for details.
