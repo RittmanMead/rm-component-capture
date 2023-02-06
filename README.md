@@ -1,15 +1,15 @@
 ![](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/b7e95341/badges/apex-plugin-badge.svg) ![](https://img.shields.io/badge/Plug--In%20Type-Dynamic%20Action-red) ![](https://img.shields.io/badge/APEX-20.*-brightgreen) ![](https://img.shields.io/badge/APEX-21.*-brightgreen) ![](https://img.shields.io/badge/APEX-22.*-brightgreen) ![](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/7919f913/badges/apex-love-badge.svg)
 # rm-component-capture
-This Oracle APEX plugin allows users to easily capture a screenshot of any portion of their page and save it to an APEX Collection or download it as a PNG file. The Dynamic Action plugin integrates seamlessly into the Oracle APEX platform and provides a user-friendly interface for selecting the area of the page to be captured using CSS Selectors. This plugin is a useful tool for users who need to capture and share visual information from their Oracle APEX applications, such a maps or chart. 
+This Oracle APEX plugin allows users to easily capture a screenshot of any portion of their page and save it to an APEX Collection or download it as a PNG file. The Dynamic Action plugin integrates seamlessly into the Oracle APEX platform and provides a user-friendly interface for selecting an area of a page to be captured using CSS Selectors. This plugin is a useful tool for users who need to capture and share visual information from their Oracle APEX applications, such a maps or charts. 
 
 ## Features
-* Take a screenshot of component incluing canvas elements (eg. Oracle APEX Map)
-* Screenshot can be saved locally or to a collection
-* The target component can be changed dynamicly
+* Take a screenshot of components, incluing canvas elements (eg. Oracle APEX Map)
+* Screenshot can be saved locally or to an APEX collection
+* The target component can be changed dynamically
 
 ## Roadmap
 * Copy to clipboard functionality
-* Custom file name
+* Custom file names
 * Custom size of the image
 * Support other image formats
 
@@ -22,7 +22,7 @@ Date | Version | Description |
 * Multi element capturing is not working in Firefox
 
 ### Support 
-Thank you for choosing our plug-in! We are happy to provide support for the plugin free of charge. This includes assistance with troubleshooting, bug fixes, and general usage questions. If you are interested in customization, implementation, or creating a new plug-in, please don't hesitate to contact us for a quote. Our team of experts will be happy to work with you to create a solution that meets your specific needs. You can contact us on - info@rittmanmead.com.
+Thank you for choosing our plug-in! We are happy to provide support for the plugin free of charge. This includes assistance with troubleshooting, bug fixes, and general usage questions. If you are interested in customisation, implementation, or creating a new plug-in, please don't hesitate to contact us for a quote. Our team of experts will be happy to work with you to create a solution that meets your specific needs. You can contact us on - info@rittmanmead.com.
 
 ### About Rittman Mead
 Rittman Mead was founded in 2007 with the goal of becoming the world's leading Oracle Data Warehousing and Business Intelligence company. For the first few years, we achieved this through the projects we delivered, our blog and community contribution.
