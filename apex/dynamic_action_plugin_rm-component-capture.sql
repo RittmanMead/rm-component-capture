@@ -31,19 +31,6 @@ end;
  
 prompt APPLICATION 148 - Sample Maps
 --
--- Application Export:
---   Application:     148
---   Name:            Sample Maps
---   Date and Time:   09:54 Monday February 6, 2023
---   Exported By:     PETARS
---   Flashback:       0
---   Export Type:     Component Export
---   Manifest
---     PLUGIN: 191853680319884614
---   Manifest End
---   Version:         22.1.6
---   Instance ID:     9013770226531785
---
 
 begin
   -- replace components
