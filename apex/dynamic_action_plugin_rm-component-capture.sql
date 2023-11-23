@@ -28,7 +28,7 @@ prompt APPLICATION 101 - RM-COMPONENT-CAPTURE
 -- Application Export:
 --   Application:     101
 --   Name:            RM-COMPONENT-CAPTURE
---   Date and Time:   09:23 Thursday November 23, 2023
+--   Date and Time:   10:09 Thursday November 23, 2023
 --   Exported By:     PETARS
 --   Flashback:       0
 --   Export Type:     Component Export
@@ -70,13 +70,14 @@ wwv_flow_api.create_plugin(
 '    -- class or ID of the component to capture',
 '    l_jquery_selector p_dynamic_action.attribute_01%type := p_dynamic_action.attribute_01;',
 '    -- type of the plugin: "Save" to save to collection, "Download" to save file locally',
-'    l_type            p_dynamic_action.attribute_02%type := p_dynamic_action.attribute_04;',
+'    l_type            p_dynamic_action.attribute_04%type := p_dynamic_action.attribute_04;',
 '    -- name of the collection to save the image',
-'    l_collection_name p_dynamic_action.attribute_03%type := p_dynamic_action.attribute_05;',
+'    l_collection_name p_dynamic_action.attribute_05%type := p_dynamic_action.attribute_05;',
 '    -- selector type, jQuery or Item containg element selector.',
-'    l_selector_type   p_dynamic_action.attribute_05%type := p_dynamic_action.attribute_06;',
+'    l_selector_type   p_dynamic_action.attribute_06%type := p_dynamic_action.attribute_06;',
 '    -- selector type, jQuery or Item containg element selector.',
-'    l_item_selector   p_dynamic_action.attribute_06%type := p_dynamic_action.attribute_03;',
+'    l_item_selector   p_dynamic_action.attribute_03%type := p_dynamic_action.attribute_03;',
+'',
 '',
 'begin',
 '    ',
@@ -195,7 +196,7 @@ wwv_flow_api.create_plugin_attribute(
 ,p_attribute_type=>'PAGE ITEM'
 ,p_is_required=>true
 ,p_is_translatable=>false
-,p_depending_on_attribute_id=>wwv_flow_api.id(9579504349729106)
+,p_depending_on_attribute_id=>wwv_flow_api.id(9590120512845930)
 ,p_depending_on_has_to_exist=>true
 ,p_depending_on_condition_type=>'EQUALS'
 ,p_depending_on_expression=>'ITEM'
