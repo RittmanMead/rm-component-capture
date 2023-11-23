@@ -105,17 +105,11 @@ var RM = {
                     error: function (pMessage) {
                         // add apex event
                         apex.event.trigger(elementToCapture, 'screencapture-error-db');
-                        // logging
-                        console.error();
                     }
                 });
             });
         } else {
-
-            // TO FIX
-
-            console.log('Conditions not matched.');
-            console.log('Parameter value', vPluginType);
+            console.error('Not valid plugin type.');
         }
     },
 }
